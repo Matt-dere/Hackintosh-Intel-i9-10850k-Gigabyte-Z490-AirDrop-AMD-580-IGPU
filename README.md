@@ -46,4 +46,18 @@ Follow this Guide and Download Method: -> https://github.com/corpnewt/gibMacOS <
 <li> Open the terminal and enter this command to create the installer (Replace "USB_NAME"/"MyVolume" with your USB name. In this case Untitled. </li>
 <li> sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/USB_NAME or MyVolume </li>
 <li> At the end your USB should be named "Install macOS Catalina". </li>
-<li></li>
+
+# config.plist
+if you use mine plist, dont forget to change the serial number. 
+change the NEW_HERE with your serial number.
+
+use this tool to genereate one. -> https://github.com/corpnewt/GenSMBIOS <-
+
+if you have question join our Discord :)
+
+# Discord
+https://discord.gg/DDXmRxXX8Y
+
+
+Thanks to:
+https://github.com/corpnewt
