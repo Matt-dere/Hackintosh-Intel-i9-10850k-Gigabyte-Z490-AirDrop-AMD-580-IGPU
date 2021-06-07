@@ -39,11 +39,11 @@ Create an MacOS Catalina 10.15.6 USB-Installer Stick. Do this on a real Mac.
 
 Follow this Guide and Download Method: -> https://github.com/corpnewt/gibMacOS <-
 
-<li> 
-Plugin USB-Stick with at least 16GB. My installation needed 8.30 GB. 
-The following assumes your USB stick is called "USB_NAME" Normality is "MyVolume".
-Check that "USB_NAME"/"MyVolume" is partitioned with GUID.
-Open the terminal and enter this command to create the installer (Replace "USB_NAME"/"MyVolume" with your USB name. In this case Untitled.
-sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/USB_NAME or MyVolume
-At the end your USB should be named "Install macOS Catalina".
-</li>
+
+<li> Plugin USB-Stick with at least 16GB. My installation needed 8.30 GB. </li>
+<li> The following assumes your USB stick is called "USB_NAME" Normality is "MyVolume". </li>
+<li> Check that "USB_NAME"/"MyVolume" is partitioned with GUID. </li>
+<li> Open the terminal and enter this command to create the installer (Replace "USB_NAME"/"MyVolume" with your USB name. In this case Untitled. </li>
+<li> sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/USB_NAME or MyVolume </li>
+<li> At the end your USB should be named "Install macOS Catalina". </li>
+<li></li>
