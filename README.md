@@ -55,7 +55,7 @@ use this tool to genereate one. -> https://github.com/corpnewt/GenSMBIOS <-
 
 # Bios Settings
 Skip steps with setting you can’t find in your BIOS
-<li> Disable </li>
+<li> ----> Disable <---- </li>
 
 <li> Fast Boot </li>
 <li> Secure Boot </li>
@@ -70,7 +70,7 @@ Skip steps with setting you can’t find in your BIOS
 
 
 
-<li> Enable </li>
+<li> ----> Enable <---- </li>
 
 <li> VT-x </li>
 <li> Above 4G decoding </li>
