@@ -25,7 +25,7 @@ Bootloader: OpenCore 0.6.3 /0.6.7
 <li> USB-C Working </li>
 <li> Ethernet </li>
 <li> iCloud </li>
-<li> Programs: VM-Fusion, Microsoft Teams, Citrix, WhatsAPP, Telegram, </li>
+<li> Application: VM-Fusion, Microsoft Teams, Citrix, WhatsAPP, Telegram, </li>
 <li> Games like : LoL, CS:GO, Diablo 3, WoW, MineCraft. </li>
 <li> Sleep/Wake </li>
 <li> Shutdown </li>
