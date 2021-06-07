@@ -56,8 +56,10 @@ use this tool to genereate one. -> https://github.com/corpnewt/GenSMBIOS <-
 if you have question join our Discord :)
 
 # Discord
+Join our discord to be one of the first to receive updates and news to anything tech!
+
 https://discord.gg/DDXmRxXX8Y
 
 
-Thanks to:
+# Thanks to:
 https://github.com/corpnewt
