@@ -17,7 +17,7 @@ Bootloader: OpenCore 0.6.3 /0.6.7
 <li> Wifi/BT/AirDrop: MQUPIN fenvi T919 Wireless Card with BCM94360CD </li>
 
 
-# What is Working
+# What works so far
 <li> Tested with macOS Catalina 10.15.6 and macOS Big Sur </li>
 <li> Graphics: IGPU and AMD RX 580 Working fine. </li>
 <li> Wifi,Bluetooth and AirDrop via BCM94360CD. </li>
@@ -35,12 +35,12 @@ Bootloader: OpenCore 0.6.3 /0.6.7
  
  
 # Installation 
-Create an MacOS Catalina 10.15.6 USB-Installer Stick. Do this on a real Mac.
+Create an MacOS Catalina 10.15.6 USB-Installer FlashDrive. Do this on a real Mac.
 
 Follow this Guide and Download Method: -> https://github.com/corpnewt/gibMacOS <-
 
 
-<li> Plugin USB-Stick with at least 16GB. My installation needed 8.30 GB. </li>
+<li> Plugin USB-Drive with at least 16GB. My installation needed 8.30 GB. </li>
 <li> The following assumes your USB stick is called "USB_NAME" Normality is "MyVolume". </li>
 <li> Check that "USB_NAME"/"MyVolume" is partitioned with GUID. </li>
 <li> Open the terminal and enter this command to create the installer (Replace "USB_NAME"/"MyVolume" with your USB name. In this case Untitled. </li>
@@ -48,14 +48,13 @@ Follow this Guide and Download Method: -> https://github.com/corpnewt/gibMacOS <
 <li> At the end your USB should be named "Install macOS Catalina". </li>
 
 # config.plist
-if you use mine plist, dont forget to change the serial number. 
-change the NEW_HERE with your serial number.
+if you use my plist, don’t forget to change the serial number. Change the NEW_HERE accordingly with your serial number.
 
 use this tool to genereate one. -> https://github.com/corpnewt/GenSMBIOS <-
 
 
 # Bios Settings
-if you some not find, skip it.
+Skip steps with setting you can’t find in your BIOS
 <li> Disable </li>
 
 <li> Fast Boot </li>
