@@ -24,9 +24,13 @@ Wifi/BT: MQUPIN fenvi T919 Wireless Card with BCM94360CD
  Audio: Working by hisself. 
  USB-C Working
  Ethernet
+ iCloud
+ Programs: VM-Fusion, Microsoft Teams, Citrix, WhatsAPP, Telegram, 
+ Games like : LoL, CS:GO, Diablo 3, WoW, MineCraft.
  Sleep/Wake
  Shutdown
  Restart
+
  
  
  
