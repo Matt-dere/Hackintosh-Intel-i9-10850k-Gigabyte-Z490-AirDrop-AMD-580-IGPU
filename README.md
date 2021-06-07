@@ -10,26 +10,26 @@ Bootloader: OpenCore 0.6.3 /0.6.7
 
 
 # My Hardware
-Intel i9-10850k
-Mainboard: GIGABYTE Z490M GAMING X 
-RAM: 32GB Corsair 3200 CL16
-GPU: AMD Sapphire RX 580
-Wifi/BT: MQUPIN fenvi T919 Wireless Card with BCM94360CD 
+<li> Intel i9-10850k </li>
+<li> Mainboard: GIGABYTE Z490M GAMING X </li>
+<li> RAM: 32GB Corsair 3200 CL16 </li>
+<li> GPU: AMD Sapphire RX 580 </li>
+<li> Wifi/BT: MQUPIN fenvi T919 Wireless Card with BCM94360CD </li>
 
 
 # What is Working
- Tested with macOS Catalina 10.15.6 and macOS Big Sur
- Graphics: IGPU and AMD RX 580 Working fine.
- Wifi and Bluetooth via BCM94360CD.
- Audio: Working by hisself. 
- USB-C Working
- Ethernet
- iCloud
- Programs: VM-Fusion, Microsoft Teams, Citrix, WhatsAPP, Telegram, 
- Games like : LoL, CS:GO, Diablo 3, WoW, MineCraft.
- Sleep/Wake
- Shutdown
- Restart
+<li> Tested with macOS Catalina 10.15.6 and macOS Big Sur </li>
+<li> Graphics: IGPU and AMD RX 580 Working fine. </li>
+<li> Wifi and Bluetooth via BCM94360CD. </li>
+<li> Audio: Working by hisself. </li>
+<li> USB-C Working </li>
+<li> Ethernet </li>
+<li> iCloud </li>
+<li> Programs: VM-Fusion, Microsoft Teams, Citrix, WhatsAPP, Telegram, </li>
+<li> Games like : LoL, CS:GO, Diablo 3, WoW, MineCraft. </li>
+<li> Sleep/Wake </li>
+<li> Shutdown </li>
+<li> Restart </li>
 
  
  
