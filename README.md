@@ -57,29 +57,29 @@ use this tool to genereate one. -> https://github.com/corpnewt/GenSMBIOS <-
 # Bios Settings
 <li> Disable </li>
 
-Fast Boot
-Secure Boot
-Serial/COM Port
-Parallel Port
-VT-d (can be enabled if you set DisableIoMapper to YES)
-CSM
-Thunderbolt(For initial install, as Thunderbolt can cause issues if not setup correctly)
-Intel SGX
-Intel Platform Trust
-CFG Lock (MSR 0xE2 write protection)(This must be off, if you can't find the option then enable AppleXcpmCfgLock under Kernel -> Quirks. Your hack will not boot with CFG-Lock enabled)
+<li> Fast Boot </li>
+<li> Secure Boot </li>
+<li> Serial/COM Port </li>
+<li> Parallel Port </li>
+<li> VT-d (can be enabled if you set DisableIoMapper to YES) </li>
+<li> CSM </li>
+<li> Thunderbolt(For initial install, as Thunderbolt can cause issues if not setup correctly) </li>
+<li> Intel SGX </li>
+<li> Intel Platform Trust </li>
+<li> CFG Lock (MSR 0xE2 write protection)(This must be off, if you can't find the option then enable AppleXcpmCfgLock under Kernel -> Quirks. Your hack will not boot with CFG-Lock enabled) </li>
 
 <li> Enable </li>
 
-VT-x
-Above 4G decoding
-2020+ BIOS Notes: When enabling Above4G, Resizable BAR Support may become an available on some Z490 and newer motherboards. Please ensure this is Disabled instead of set to Auto.
-Hyper-Threading
-Execute Disable Bit
-EHCI/XHCI Hand-off
-OS type: Windows 8.1/10 UEFI Mode
-DVMT Pre-Allocated(iGPU Memory): 64MB
-SATA Mode: AHCI
-#
+<li> VT-x </li>
+<li> Above 4G decoding </li>
+<li> 2020+ BIOS Notes: When enabling Above4G, Resizable BAR Support may become an available on some Z490 and newer motherboards. Please ensure this is Disabled instead of set to Auto. </li>
+<li> Hyper-Threading </li>
+<li> Execute Disable Bit </li>
+<li> EHCI/XHCI Hand-off </li>
+<li> OS type: Windows 8.1/10 UEFI Mode </li>
+<li> DVMT Pre-Allocated(iGPU Memory): 64MB </li>
+<li> SATA Mode: AHCI </li>
+
 
 
 
