@@ -14,13 +14,13 @@ Bootloader: OpenCore 0.6.3 /0.6.7
 <li> Mainboard: GIGABYTE Z490M GAMING X </li>
 <li> RAM: 32GB Corsair 3200 CL16 </li>
 <li> GPU: AMD Sapphire RX 580 </li>
-<li> Wifi/BT: MQUPIN fenvi T919 Wireless Card with BCM94360CD </li>
+<li> Wifi/BT/AirDrop: MQUPIN fenvi T919 Wireless Card with BCM94360CD </li>
 
 
 # What is Working
 <li> Tested with macOS Catalina 10.15.6 and macOS Big Sur </li>
 <li> Graphics: IGPU and AMD RX 580 Working fine. </li>
-<li> Wifi and Bluetooth via BCM94360CD. </li>
+<li> Wifi,Bluetooth and AirDrop via BCM94360CD. </li>
 <li> Audio: Working by hisself. </li>
 <li> USB-C Working </li>
 <li> Ethernet </li>
